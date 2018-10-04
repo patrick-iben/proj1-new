@@ -1,0 +1,1 @@
+This project is for CK's class demo of Git.
